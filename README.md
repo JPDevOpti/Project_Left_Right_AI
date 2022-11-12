@@ -9,4 +9,5 @@ Inteligencia-artificial-UdeA
 
 #dataset: https://bbci.de/competition/iv/?fbclid=IwAR16-KF5s7zDVNOFYqnGQGoRFJ1cBv8yHdMOB0d4jgT7MQoVZmTTcbzYcNw
 
-https://www.youtube.com/watch?v=9SrTk5bmWu0
+Video Link Entrega 2- https://www.youtube.com/watch?v=9SrTk5bmWu0
+VIdeo Link Entrega FInal- https://www.youtube.com/watch?v=DmUHik1eWzE

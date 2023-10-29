@@ -1,4 +1,4 @@
-Inteligencia-artificial-UdeA
+Proyecto inteligencia UdeA
 #Juan Pablo Restrepo Mancilla, 1000203868
 
 #Juan Sebastian Rodríguez Solarte, 1192761315
